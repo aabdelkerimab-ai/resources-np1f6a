@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aabdelkerimab-ai.github.io/resources-np1f6a/sitemap.xml
